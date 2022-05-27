@@ -30,14 +30,14 @@ section.normal {
 
 }
 section.imagem {
-    background-color: rgba(0, 0, 0, 0.589);
+    background-color: rgba(0, 0, 0, 0.363);
     color: white;
-    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.308);
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.432);
     background-attachment: fixed;
 }
 section.imagem > p {
     display: inline-block;
-    background-color: rgba(0, 0, 0, 0.349);
+    background-color: rgba(0, 0, 0, 0.103);
     text-shadow: 1px 1px 0px black;
 }
 header {
